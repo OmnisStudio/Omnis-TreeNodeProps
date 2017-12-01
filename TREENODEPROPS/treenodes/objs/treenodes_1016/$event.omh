@@ -1,0 +1,5 @@
+On evTreeNodeIconClicked     ;; Event Parameters - pNodeItem( Itemreference )
+	Do pNodeItem.$drawinactive.$assign(kTrue)
+	Do pNodeItem.$tag.$assign(pNodeItem.$name)
+	OK message  {[pNodeItem.$tag]}
+On evTreeCollapse     ;; Event Parameters - pNodeItem( Itemreference )

@@ -1,0 +1,28 @@
+{
+	"classtype": "kTask",
+	"internalversion": 1,
+	"tvardefs": [
+
+	],
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2001-11-07 14:37:59",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": false,
+		"issupercomponent": false,
+		"moddate": "2017-12-01 16:27:39",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	}
+}
